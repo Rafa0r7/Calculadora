@@ -3,13 +3,13 @@
     padding: 0;
 }
 .fundo{
-    background-image: linear-gradient(45deg,black ,#c8a2c8 );
+    background-image: linear-gradient(45deg,black ,white);
     height: 100vh;
     text-align: center;
 }   
 .calculadora{
     position: absolute;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(37, 37, 37, 0.8);
     color: white;
     padding: 15px;
     top: 50%;
